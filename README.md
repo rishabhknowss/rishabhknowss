@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Web 3.0**
 
-- 👨‍💻 All of my projects are available at [raii.wtf](raii.wtf)
-
 - 💬 Ask me about **Python , React , Kotlin**
 
 - 📫 How to reach me **rishabh@raii.wtf**
